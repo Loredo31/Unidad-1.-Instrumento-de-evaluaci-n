@@ -1,4 +1,6 @@
 # Intrumento de evaluación
+# Alumno
+Jose de Jesus Loredo Melendez
 # Asignatura. Aplicaciones IoT
 # GDS0653
 # Unidad 1
