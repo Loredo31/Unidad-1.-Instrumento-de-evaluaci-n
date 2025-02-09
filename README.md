@@ -20,12 +20,10 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 <br>
 
 # Practica
-## Ejercicio 1. Almacenamiento de Datos
-<br>
-<br>
+## Ejercicio 1 y 2. Almacenamiento de datos y control de actuadores
 
-## Ejercicio 2: Control de Actuadores
-<br>
+https://drive.google.com/drive/folders/1sGWosnKkPgRxjyJ-X5YNb9onNv3vlzKs?usp=sharing
+
 <br>
 
 ## Ejercicios 3 (soldadura):Circuito funcional en placa fenólica
@@ -40,5 +38,6 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 <br>
 
 ## Ejercicios en clase: Videos demostrativos
-<br>
+https://drive.google.com/drive/folders/1zrkyPj6CXGoh0dHCst6EKJIPbFxOq4gS?usp=sharing
+
 <br>
